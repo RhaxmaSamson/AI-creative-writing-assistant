@@ -17,9 +17,10 @@ It allows users to input a genre, tone, or starting idea and generates fresh, un
 ## How to Run
 
 1. Clone the repository.
-2. Install the dependencies using `pip install -r requirements.txt`.
-3. Run the application using `python app.py`.
-4. Access the application in your browser at `http://localhost:7860`.
+2. Create virtual environment
+3. Install the dependencies using `pip install -r requirements.txt`.
+4. Run the application using `python app.py`.
+5. Access the application in your browser at `http://localhost:7860`.
 
 
 
